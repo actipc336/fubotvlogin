@@ -5,7 +5,7 @@ How to Login Fubo TV Account? Easy Guide
    :maxdepth: 2
    :caption: Contents:   
 
-.. image:: login-button-png-15.png
+.. image:: login.gif
    :alt: My Project Logo
    :width: 200px
    :align: center
