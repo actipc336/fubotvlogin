@@ -7,7 +7,7 @@ How to Login Fubo TV Account? Easy Guide
 
 .. image:: login.gif
    :alt: My Project Logo
-   :width: 200px
+   :width: 400px
    :align: center
    :target: https://aclogportal.com/fubo-tv-login
 
